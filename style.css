@@ -19,16 +19,15 @@ section {
     border-radius: 8px;
 }
 
-
 a {
     text-decoration: none;
     color: white;
-    background-color: #c0c0c0;
+    background-color: #008CBA;
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 18px;
 }
 
 a:hover {
-    background-color: #a8a8a8;
+    background-color: #005f73;
 }
